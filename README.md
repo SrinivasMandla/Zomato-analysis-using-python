@@ -4,8 +4,7 @@ This repository contains a Python-based analysis of Zomato restaurant data, expl
 
 **Key Features & Analysis:**
 
-* **Data Loading and Cleaning:** Demonstrates techniques for loading data from CSV or other formats, handling missing values, cleaning inconsistent data entries, and preparing the data for analysis.
-* 
+* **Data Loading and Cleaning:** Demonstrates techniques for loading data from CSV or other formats, handling missing values, cleaning inconsistent data entries, and preparing the data for analysis. 
 * **Exploratory Data Analysis (EDA):** Explores key trends and patterns in the data through visualizations and summary statistics:
     * **Cuisine Analysis:** Identifies popular cuisines, their distribution, and trends across different locations.
     * **Location Analysis:** Examines the distribution of restaurants across different areas, identifies restaurant hubs, and analyzes the relationship between location and ratings/cost.
